@@ -1,0 +1,12 @@
+
+fpython:S2208"GImport only needed names or import the module and then use its members.(õÑ²İ8‚¡µ½Ù1
+wpython:S5655P"XChange this argument; Function "calculate_emission_probability" expects a different type(£Öº¥8à¢ÎàÛ1
+wpython:S5655["XChange this argument; Function "calculate_emission_probability" expects a different type(£Öº¥8á¢ÎàÛ1
+wpython:S5655a"XChange this argument; Function "calculate_emission_probability" expects a different type(£Öº¥8á¢ÎàÛ1
+=python:S125u"Remove this commented out code.(ñÜÏ¡8™©äÄÙ1
+>python:S125…"Remove this commented out code.(ÜÒ±›8şãÄÙ1
+lpython:S930®"HRemove 1 unexpected arguments; 'viterbi' expects 4 positional arguments.(´š®‹ıÿÿÿÿ8â¢ÎàÛ1
+lpython:S930º"HRemove 1 unexpected arguments; 'viterbi' expects 4 positional arguments.(´š®‹ıÿÿÿÿ8â¢ÎàÛ1
+lpython:S930Â"HRemove 1 unexpected arguments; 'viterbi' expects 4 positional arguments.(´š®‹ıÿÿÿÿ8â¢ÎàÛ1
+lpython:S930Ê"HRemove 1 unexpected arguments; 'viterbi' expects 4 positional arguments.(´š®‹ıÿÿÿÿ8â¢ÎàÛ1
+lpython:S930Ò"HRemove 1 unexpected arguments; 'viterbi' expects 4 positional arguments.(´š®‹ıÿÿÿÿ8â¢ÎàÛ1
